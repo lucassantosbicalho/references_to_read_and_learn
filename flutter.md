@@ -13,10 +13,13 @@
  - https://www.brentozar.com/archive/2021/07/store-files-in-a-file-system-not-a-relational-database/
 
 
-# FCM
- - https://www.youtube.com/watch?v=p7aIZ3aEi2w (This is gold)
-    - How to handle foreground, background, local notificaions, on-tap. Thanks @themaaz32
-
+# Firebase
+ - ## FCM
+      - https://www.youtube.com/watch?v=p7aIZ3aEi2w (This is gold)
+        - How to handle foreground, background, local notificaions, on-tap. Thanks @themaaz32
+ - ## Auth
+      - https://www.youtube.com/watch?v=85PNCR7SpQk
+        - store user data (e-mail, profile pic, name) from auth
 
 # build on iOS
  - https://www.youtube.com/watch?v=ZBJa-xjZl3w
