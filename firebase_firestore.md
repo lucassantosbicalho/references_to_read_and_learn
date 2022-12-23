@@ -29,5 +29,15 @@
     - Using real time database. But the principles applies to Firestore.
 
 
+----
+
+# Batch writes
+
+ - https://stackoverflow.com/questions/60600591/firebase-cloud-functions-update-a-different-object-within-onupdate-cloud-trigg
+ - Batch writes optimization with Cloud Functions
+   - https://medium.com/@michael.kimpton/batch-processing-with-firebase-cloud-functions-aa11640cc9ac
+   - https://www.youtube.com/watch?v=_X7Ry8Q0wbg&ab_channel=thecloudfunction
+   - https://dev.to/wceolin/cannot-modify-a-writebatch-that-has-been-committed-265f
+
 
 
