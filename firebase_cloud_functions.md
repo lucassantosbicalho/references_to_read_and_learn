@@ -8,6 +8,9 @@ Firebase Cloud Functions
  - https://www.youtube.com/watch?v=bs_xs9-RJvc
  - https://www.youtube.com/watch?v=uAZye3L2NPo
  - https://www.youtube.com/watch?v=ny55KMSX-aY
+ - https://www.youtube.com/watch?v=T8SZv6h2WbY
+ - https://www.youtube.com/watch?v=mWAwxbeGU_E
+   - For RealTime DB
 
 
 # Triggers on Firestore
