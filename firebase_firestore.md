@@ -37,6 +37,9 @@
     - Security Rules based on timestamp (To avoid read/write in less than X minutes)
 
 ## Unit testing Security Rules with Emulator Suite
+  - Using Mocha (https://mochajs.org/#hooks)
+    - Mocha is a JS test framework running on Node.js and in the browser.
+    
   - https://firebase.blog/posts/2021/01/code-review-security-rules
 
   - https://firebase.google.com/docs/firestore/security/test-rules-emulator
