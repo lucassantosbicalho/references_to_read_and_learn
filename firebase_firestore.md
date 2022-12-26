@@ -53,6 +53,8 @@
 
   - https://www.youtube.com/watch?v=VgQwlMtxbAw
 
+  - https://medium.com/firebase-developers/develop-your-firestore-with-tdd-unit-testing-security-rules-afefb0d772c4
+
 
 ----
 
