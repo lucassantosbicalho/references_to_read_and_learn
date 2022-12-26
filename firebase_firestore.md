@@ -19,6 +19,10 @@
 # Data modeling NoSQL (Five useful data modeling techniques)
  - https://www.youtube.com/watch?v=35RlydUf6xo
 
+# Increment
+ - https://fireship.io/snippets/firestore-increment-tips/#:~:text=Increment%20is%20a%20special%20value,1%20to%20the%20current%20total.
+
+
 ----
 
 # Security rules
@@ -27,6 +31,10 @@
     - Rules with teams. Very interesting!
   - https://www.youtube.com/watch?v=7lFgcHvOfbo
     - Using real time database. But the principles applies to Firestore.
+  - https://stackoverflow.com/questions/62215187/firestore-security-rule-for-fieldvalue-increment
+    - Based on increment
+  - https://stackoverflow.com/questions/56487578/how-do-i-implement-a-write-rate-limit-in-cloud-firestore-security-rules
+    - Security Rules based on timestamp (To avoid read/write in less than X minutes)
 
 
 ----
