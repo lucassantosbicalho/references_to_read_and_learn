@@ -36,6 +36,20 @@
   - https://stackoverflow.com/questions/56487578/how-do-i-implement-a-write-rate-limit-in-cloud-firestore-security-rules
     - Security Rules based on timestamp (To avoid read/write in less than X minutes)
 
+## Unit testing Security Rules with Emulator Suite
+	 - https://firebase.blog/posts/2021/01/code-review-security-rules
+
+	 - https://firebase.google.com/docs/firestore/security/test-rules-emulator
+		  - Documentation
+
+	 - https://www.youtube.com/watch?v=VDulvfBpzZE
+		  - Todd Kerpelman explaining Unit testing Security Rules with Emulator Suite
+
+	 - https://medium.com/firebase-developers/run-continuous-integration-tests-using-the-firebase-emulator-suite-9090cefefd69
+		  - CI tests using Travis CI
+
+	 - https://www.youtube.com/watch?v=VgQwlMtxbAw
+
 
 ----
 
