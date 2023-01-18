@@ -23,11 +23,21 @@ Firebase Cloud Functions
  - https://www.freecodecamp.org/news/how-to-schedule-a-task-with-firebase-cloud-functions/
 
 # Deleting old messages in chat (Firestore)
+
  - https://stackoverflow.com/questions/15990681/firebase-chat-removing-old-messages
  - https://stackoverflow.com/questions/18851549/deleting-old-messages-in-firebase-based-on-time-and-number-of-entries
  - https://medium.com/@fabio.sabbion/firestore-auto-delete-a-document-after-24-hours-91db9d0132a0
 
 # FCM via Cloud Functions
+
  - https://engineering.monstar-lab.com/en/post/2021/02/09/Use-Firebase-Cloudfunctions-To-Send-Push-Notifications/
    - By HTTP request or Triggers 
  - https://www.youtube.com/watch?v=I0r10sk5fuI&ab_channel=TadasPetra
+
+># Regions in functions 
+https://firebase.google.com/docs/functions/locations
+ - Regions locations supported	
+https://firebase.google.com/docs/functions/locations
+ - Firebase documentation on Cloud Functions locations 
+https://firebase.google.com/docs/functions/manage-functions#modify-region
+ - Modifying the region of a deployed function.
