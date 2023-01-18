@@ -34,10 +34,10 @@ Firebase Cloud Functions
    - By HTTP request or Triggers 
  - https://www.youtube.com/watch?v=I0r10sk5fuI&ab_channel=TadasPetra
 
-># Regions in functions 
-https://firebase.google.com/docs/functions/locations
- - Regions locations supported	
-https://firebase.google.com/docs/functions/locations
- - Firebase documentation on Cloud Functions locations 
-https://firebase.google.com/docs/functions/manage-functions#modify-region
- - Modifying the region of a deployed function.
+# Regions in functions 
+ - https://firebase.google.com/docs/functions/locations
+   - Regions locations supported	
+ - https://firebase.google.com/docs/functions/locations
+   - Firebase documentation on Cloud Functions locations 
+ - https://firebase.google.com/docs/functions/manage-functions#modify-region
+   - Modifying the region of a deployed function.
