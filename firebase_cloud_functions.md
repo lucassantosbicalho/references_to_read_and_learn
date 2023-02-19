@@ -12,6 +12,8 @@ Firebase Cloud Functions
  - https://www.youtube.com/watch?v=mWAwxbeGU_E
    - For RealTime DB
 
+# Sending e-mail via functions
+ - https://edigleyssonsilva.medium.com/cloud-functions-for-firebase-sending-e-mail-1f2631d1022e
 
 # Triggers on Firestore
 
@@ -41,3 +43,4 @@ Firebase Cloud Functions
    - Firebase documentation on Cloud Functions locations 
  - https://firebase.google.com/docs/functions/manage-functions#modify-region
    - Modifying the region of a deployed function.
+ 
