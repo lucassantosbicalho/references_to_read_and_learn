@@ -14,6 +14,7 @@ Firebase Cloud Functions
 
 # Sending e-mail via functions
  - https://edigleyssonsilva.medium.com/cloud-functions-for-firebase-sending-e-mail-1f2631d1022e
+ - https://softauthor.com/firebase-functions-send-email/
 
 # Triggers on Firestore
 
