@@ -15,6 +15,8 @@ Firebase Cloud Functions
 # Sending e-mail via functions
  - https://edigleyssonsilva.medium.com/cloud-functions-for-firebase-sending-e-mail-1f2631d1022e
  - https://softauthor.com/firebase-functions-send-email/
+ - https://medium.com/android-news/firebase-functions-send-email-using-google-oauth2-20c552da6b3e
+   - Setup configuration
 
 # Triggers on Firestore
 
