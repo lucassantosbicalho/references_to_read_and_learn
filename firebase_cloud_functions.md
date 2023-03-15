@@ -6,7 +6,9 @@ Firebase Cloud Functions
 After run the command `firebase deploy --only functions` I got the error in the final log:
 ```
 i  functions: cleaning up build files...
-!  functions: Unhandled error cleaning up build images. This could result in a small monthly bill if not corrected. You can attempt to delete these images by redeploying or you can delete them manually at https://console.cloud.google.com/artifacts/docker/<project-name>/southamerica-east1/gcf-artifacts
+!  functions: Unhandled error cleaning up build images. This could result in a small monthly bill if not corrected. 
+You can attempt to delete these images by redeploying or you can delete them manually at 
+https://console.cloud.google.com/artifacts/docker/<project-name>/southamerica-east1/gcf-artifacts
 
 +  Deploy complete!
 ```
