@@ -12,7 +12,8 @@ https://console.cloud.google.com/artifacts/docker/<project-name>/southamerica-ea
 
 +  Deploy complete!
 ```
-The solutions is to redeploy. Take a look at this stack overflow:
+The solutions is redeploy running the command `firebase deploy --only functions` again. 
+For more info, take a look at this stack overflow topic:
  - https://stackoverflow.com/questions/68611817/cant-deploy-cloud-functions-because-of-unhandled-error-cleaning-up-build-image
 
 
